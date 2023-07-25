@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SauceQuiPik
 - 👀 I’m interested in PLC programming and robotic
-- 🌱 I’m currently learning ROS, python and a bit of c++
+- 🌱 I’m currently learning ROS, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
